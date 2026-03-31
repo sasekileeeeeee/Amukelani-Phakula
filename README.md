@@ -15,4 +15,4 @@ LinkedIn: www.linkedin.com/in/amukelani-phakula
 ## WHAT'S NEXT?  
 Leveling up with Python, Google Colab and Looker Studio
 
-*Stay tuned for more sudo life*
+*Stay tuned for more Sudo life*
