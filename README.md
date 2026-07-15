@@ -9,7 +9,7 @@ Frameworks: Azure, VBA, Microsoft SQL Server, Bootstrap, ASP and ASP.NET, Google
 Currently working on something - stayed turned :)
 
 ## GET IN TOUCH  
-Email: amukelaniphakula05gmail.com  
+Email: amukelaniphakula05@gmail.com  
 LinkedIn: www.linkedin.com/in/amukelani-phakula
 
 ## WHAT'S NEXT?  
