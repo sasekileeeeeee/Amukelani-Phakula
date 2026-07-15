@@ -3,7 +3,7 @@ Hey there! I am Amukelani, a Computer Science enthusiast diving into the world o
 
 ## SKILLS AND TOOLS  
 Languages: T-SQL, SQL, HTML, CSS, JavaScript, Excel, C#, Python(learning)  
-Frameworks: Azure, VBA, Microsoft SQL Server, Bootstrap, ASP and ASP.NET, Google Colab, Looker Studio(learning)
+Frameworks: Azure, VBA, Microsoft SQL Server, Bootstrap, ASP and ASP.NET, Google Colab, Looker Studio
 
 ## PROJECTS   
 Currently working on something - stayed turned :)
