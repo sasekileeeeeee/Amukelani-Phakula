@@ -6,7 +6,7 @@ Languages: T-SQL, SQL, HTML, CSS, JavaScript, Excel, C#, Python(learning)
 Frameworks: Azure, VBA, Microsoft SQL Server, Bootstrap, ASP and ASP.NET, Google Colab, Looker Studio
 
 ## PROJECTS   
-Currently working on something - stayed turned :)
+EasySchedule - which is a web application that creates timetable
 
 ## GET IN TOUCH  
 Email: amukelaniphakula05@gmail.com  
