@@ -31,6 +31,7 @@ I love diving deep into data, breaking big ideas down, and testing things from e
 - Writing - I can break down complex topics so they're easy to follow
 
 **Fun fact**
+
 I wear a lot of hats - analyst, developer, writer, and planner - but I still like keeping it solo when I'm building: just me, my code, the machine, and the next big thing. I pick up new things fast, work well in teams, and I'm currently Sponsorship and Partnership Lead for CreateOnBase Student Association.
 
 ## SKILLS AND TOOLS
