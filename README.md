@@ -25,22 +25,22 @@ I love diving deep into data, breaking big ideas down, and testing things from e
 - Enhancing my Python skills through the FNB App Academy
 
 **Ask me about**
-- Data analysis & dashboards (T-SQL, SQL, Excel, Looker Studio, Google Colab, spreadsheet cleanup/automation)
+- Data analysis and dashboards (T-SQL, SQL, Excel, Looker Studio, Google Colab, spreadsheet cleanup/automation)
 - Business analysis (requirements gathering, process modeling, Agile/SDLC)
-- Web & software development (C#, ASP.NET, JavaScript, Bootstrap, HTML/CSS, VBA, Python)
+- Web and software development (C#, ASP.NET, JavaScript, Bootstrap, HTML/CSS, VBA, Python)
 - Writing - I can break down complex topics so they're easy to follow
 
 **Fun fact**
-I wear a lot of hats - analyst, developer, writer, and planner - but I still like keeping it solo when I'm building: just me, my code, the machine, and the next big thing. I pick up new things fast, work well in teams, and I'm currently Sponsorship & Partnership Lead for CreateOnBase Student Association.
+I wear a lot of hats - analyst, developer, writer, and planner - but I still like keeping it solo when I'm building: just me, my code, the machine, and the next big thing. I pick up new things fast, work well in teams, and I'm currently Sponsorship and Partnership Lead for CreateOnBase Student Association.
 
 ## SKILLS AND TOOLS
-**Languages:** T-SQL, SQL, C#, JavaScript, Python, HTML, CSS
-**Frameworks & Platforms:** ASP.NET, Bootstrap, Azure, VBA
-**Data & Analytics:** Looker Studio, Google Colab, Excel
+- **Languages:** T-SQL, SQL, C#, JavaScript, Python, HTML, CSS
+- **Frameworks and Platforms:** ASP.NET, Bootstrap, Azure, VBA
+- **Data & Analytics:** Looker Studio, Google Colab, Excel
 
 ## CERTIFICATES
-- Career Essentials in Software Development - Microsoft & LinkedIn
-- Career Essentials in Business Analysis - Microsoft & LinkedIn
+- Career Essentials in Software Development - Microsoft and LinkedIn
+- Career Essentials in Business Analysis - Microsoft and LinkedIn
 - Agile Requirements Foundations - LinkedIn Learning
 - Business Analysis Foundations - LinkedIn Learning
 - Introduction to Career Skills in Data Analytics - LinkedIn Learning
